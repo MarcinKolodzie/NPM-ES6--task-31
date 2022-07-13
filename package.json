@@ -1,6 +1,6 @@
 {
-  "name": "@kolodziej",
-  "version": "1.0.0",
+  "name": "@kolodziej/counters",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
