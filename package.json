@@ -1,12 +1,13 @@
 {
-  "name": "task-4",
+  "name": "@kolodziej",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "prepublish": "npm run build"
   },
   "author": "CodeRoad",
   "license": "MIT",
