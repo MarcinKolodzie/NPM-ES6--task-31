@@ -10,7 +10,7 @@
     "prepublish": "npm run build",
     "release": "np"
   },
-  "author": "CodeRoad",
+  "author": "MK",
   "license": "MIT",
   "dependencies": {
     "@kolodziej/counters": "^1.0.0"
